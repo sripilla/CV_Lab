@@ -46,5 +46,8 @@ plt.imshow(laplacian, cmap='gray')
 plt.title("Laplacian Edges")
 plt.axis("off")
 
+
 plt.tight_layout()
 plt.show()
+
+# Write a program to detect edges in a image 

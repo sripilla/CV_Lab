@@ -22,3 +22,5 @@ cv2.imshow("Double Size", resized_double)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+# write a simple program to resizing the image

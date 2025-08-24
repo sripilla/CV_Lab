@@ -42,3 +42,5 @@ plt.axis("off")
 
 plt.tight_layout()
 plt.show()
+
+# write a program to resizing the image and cropping the image

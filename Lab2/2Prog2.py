@@ -68,3 +68,5 @@ plt.hist(matched.ravel(), 256, [0, 256])
 
 plt.tight_layout()
 plt.show()
+
+# write a program to read an input image, reference image and perform histogram specification

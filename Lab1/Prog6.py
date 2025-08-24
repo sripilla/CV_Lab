@@ -23,3 +23,5 @@ cv2.imshow("Rotated 45 Degrees", rotated)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+# write a simple program to rotating the image

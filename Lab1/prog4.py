@@ -19,3 +19,5 @@ cv2.rectangle(img, start_point, end_point, color, thickness)
 cv2.imshow("Rectangle", img)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+# write a simple program to draw a reactangle

@@ -18,3 +18,5 @@ else:
     # Step 3: Save it
     cv2.imwrite("output.png", img)
     print("✅ Image displayed and saved as output.png")
+
+# write a simple program to read, diaplay and write an image

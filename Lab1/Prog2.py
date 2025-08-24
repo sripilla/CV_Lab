@@ -25,3 +25,5 @@ while True:
 # Release resources
 cap.release()
 cv2.destroyAllWindows()
+
+# write a simple program to read and display a video file

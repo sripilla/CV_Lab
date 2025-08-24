@@ -22,3 +22,5 @@ cv2.circle(marked, (x, y), 5, (0, 0, 255), -1)  # red dot
 cv2.imshow("Image", marked)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+# write a simple program to extracting the RGB values of a pixel
